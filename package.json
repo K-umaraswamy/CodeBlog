@@ -47,12 +47,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gorsi123/CodeShareapp.git"
+    "url": "git+https://github.com/K-umaraswamy/CodeBlog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gorsi123/CodeShareapp/issues"
+    "url": "https://github.com/K-umaraswamy/CodeBlog/issues"
   },
   "homepage": "/"
 }
